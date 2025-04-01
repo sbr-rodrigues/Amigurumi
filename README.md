@@ -15,16 +15,16 @@ Página html básico com detalhes de uma receita de uma bailarina feita em croch
         <h2>Imagens do projetos</h2>
           <p>As imagens que compõem o projeto</p>
   <figure>
-<img src=" " alt=" "></a>
-<figcaption> </figcaption>
+<img src="https://raw.githubusercontent.com/sbr-rodrigues/Amigurumi/refs/heads/main/Aminais_resized.jpg" alt="Animalzinhos"></a>
+<figcaption>Animalzinhos</figcaption>
    </figure>
  <figure>
-   <img src=" " alt=" "></a>
-    <figcaption> </figcaption>
+   <img src="https://raw.githubusercontent.com/sbr-rodrigues/Amigurumi/refs/heads/main/Casal%20Felino_resized.jpg" alt=" "></a>
+    <figcaption>Casal de felinos</figcaption>
       </figure>
        <figure>
-         <img src=" " alt=" "></a>
- <figcaption> </figcaption>
+         <img src="https://raw.githubusercontent.com/sbr-rodrigues/Amigurumi/refs/heads/main/Snoopy_resized.jpg" alt="Snoopy"></a>
+ <figcaption>Snoopy Aviador</figcaption>
     </figure>
     </body>
     </html>
