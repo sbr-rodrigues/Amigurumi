@@ -1,0 +1,85 @@
+body {
+  background-image: url(https://raw.githubusercontent.com/sbr-rodrigues/Profile/refs/heads/main/Portif%C3%B3lio%20Backgroup%20Sabrina%20Rodrigues.jpg);
+ width: 100%;
+  height: 100vh;
+  margin: 0;
+  color: #f5f6f7;
+  font-size: 20px;
+  font-family: Tahoma;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.established {
+  font-style: italic;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+h1, h2, p, legend {
+  margin: 1em auto;
+  text-align: center;
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+.menu {
+  width: 80%;
+  background-color: rgb(243, 188, 229);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 800px;
+}
+
+img {
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  height: 2px;
+  background-color: rgb(252, 251, 255);
+  border-color: rgb(240, 240, 245);
+}
+
+
+h1, h2 {
+  font-family: Impact, serif;
+}
+
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: rgb(246, 246, 248);
+}
+
+a:visited {
+  color: rgb(252, 249, 249);
+}
+
+a:hover {
+  color: rgb(130, 5, 92);
+}
+
+a:active {
+  color: rgb(234, 34, 194);
+}
