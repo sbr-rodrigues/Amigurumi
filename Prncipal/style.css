@@ -1,0 +1,134 @@
+/* 🌸 Estilos gerais para o corpo da página */
+body {
+    background-image: url(https://raw.githubusercontent.com/sbr-rodrigues/Amigurumi/refs/heads/main/Papel%20Amigurumi.png);
+    background-repeat: no-repeat; /* Impede que a imagem de fundo se repita */
+    background-size: cover; /* Faz a imagem cobrir todo o elemento, cortando se necessário para manter a proporção */
+    background-attachment: fixed; /* Opcional: faz a imagem de fundo permanecer fixa enquanto a página rola */
+    font-family: 'Segoe UI', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* 🌷 Container principal */
+.menu {
+    background-color: #FAEBF0;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 800px;
+    width: 100%;
+}
+
+/* 💖 Título principal */
+#title {
+    font-size: 2.5em;
+    color: #5C2D3A;
+    margin: 40px 0;
+    letter-spacing: 1px;
+    border-top: 2px solid #E6B0B8;
+    border-bottom: 2px solid #E6B0B8;
+    padding: 10px 0;
+}
+
+/* 🧶 Container de imagens e introdução */
+.imagens-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.imagem-novelo {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* 🧵 Galeria de imagens */
+.imagem-galeria {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.imagem-pequena {
+    width: 80px;
+    height: auto;
+}
+
+.imagem-grande {
+    width: 300px;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* ✨ Regras horizontais */
+hr {
+    border: none;
+    border-top: 2px solid #E6B0B8;
+    margin: 30px 0;
+}
+
+/* 📖 Textos e listas */
+p {
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+h2 {
+    color: #5C2D3A;
+    margin-bottom: 20px;
+    font-size: 1.8em;
+}
+ol {
+    text-align: left;
+    margin-left: 20px;
+    line-height: 1.6;
+    padding-left: 0;
+}
+
+ul {
+    text-align: left;
+    margin-left: 20px;
+    line-height: 1.6;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* 🌐 Rodapé */
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #E6B0B8;
+    color: #5C2D3A;
+}
+
+footer a {
+    color: #5C2D3A;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+.address {
+    font-style: italic;
+    margin-top: 10px;
+}
